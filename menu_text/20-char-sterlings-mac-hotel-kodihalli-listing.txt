@@ -1,0 +1,25 @@
+{
+    "menu_items": [
+        "SALADS",
+        "Classical caesar salad with parmesan shaving: and garlic     bread",
+        "Candied walnuts, orange segments and mixed greens tossed     in",
+        "orange sesame dressing",
+        "Cherry tomatoes, olives and cheese with     mixed greens and",
+        "lemon oregano dressing",
+        "Grilled aubergine with wild     rocket and balsamic vinaigrette",
+        "Steamed potato, orange segments,     hordboiled egg and",
+        "confit base with olive oil dressing",
+        "Yoppings non     veg: chickenf‘prawn",
+        "SOUPS",
+        "Wild mushroom creamy soup gamlilied with     garlic toast",
+        "Creamed broccoli soup garnished with garlic cheese     toast",
+        "Traditional Spanish gazpocho, cold tomato soup topped",
+        "with     basil and olive oil",
+        "BURGERS: Served With Fries And House Salad",
+        "Beef    party cooked to perfection topped with sliced cheese,",
+        "sauteed onion,    mushrooms, ialapenos and tomatoes",
+        "Chicken patty topped with sliced     cheese, cucumber, onion",
+        "and coiun mayonnaise     "
+    ],
+    "restaurant_name": "20-char-sterlings-mac-hotel-kodihalli-listing"
+}
